@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="136px" viewBox="0 0 450 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>card1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="3.37379092%" x2="0%" y2="96.0239955%" id="linearGradient-1">
+            <stop stop-color="#7BAFFB" offset="0%"></stop>
+            <stop stop-color="#4577F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5,0 L437,0 C439.761424,-5.07265313e-16 442,2.23857625 442,5 L442,123 C442,125.761424 439.761424,128 437,128 L5,128 C2.23857625,128 3.38176876e-16,125.761424 0,123 L0,5 C-3.38176876e-16,2.23857625 2.23857625,5.07265313e-16 5,0 Z" id="path-2"></path>
+        <filter x="-1.6%" y="-3.9%" width="103.2%" height="110.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.274509804   0 0 0 0 0.470588235   0 0 0 0 0.964705882  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="数据展示" transform="translate(-28.000000, -257.000000)">
+            <g id="内容" transform="translate(0.000000, 249.000000)">
+                <g id="Group-6" transform="translate(32.000000, 10.000000)">
+                    <g id="卡1">
+                        <g id="卡片1">
+                            <g id="card1">
+                                <g id="Path-6-+-Path-5-Mask">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                    </g>
+                                    <path d="M-4.45337281,71.8164063 C39.7312751,48.1119792 81.1025331,49.4707031 119.660401,75.8925781 C177.497204,115.525391 324.848496,120.310547 355.876939,114.861328 C376.562568,111.228516 408.417909,106.889974 451.442962,101.845703 C454.241009,128.955078 455.082308,142.509766 453.966858,142.509766 C452.851407,142.509766 299.427779,142.509766 -6.30402762,142.509766 L-4.45337281,71.8164063 Z" id="Path-6" fill="#FFFFFF" opacity="0.0749162946" mask="url(#mask-3)"></path>
+                                    <path d="M-6.30402762,129.474609 L454.513672,129.474609 L454.513672,69.4277344 C331.68513,56.8639323 245.514505,61.5859375 196.001798,83.59375 C146.489091,105.601563 79.053816,120.895182 -6.30402762,129.474609 Z" id="Path-5" fill="#4577F6" opacity="0.776901972" mask="url(#mask-3)"></path>
+                                </g>
+                                <circle id="Oval" fill="#5689F8" opacity="0.308849516" cx="361.5" cy="20.5" r="11.5"></circle>
+                                <circle id="Oval-Copy-6" fill="#5689F8" opacity="0.308849516" cx="345" cy="42" r="8"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>中移集成考勤管理</title>
+
+  <% if (process.env.NODE_ENV === 'production') { %>
+  <!-- 生产环境 -->
+  <script>
+    document.write('<script src="./config/index.js?t=' + new Date().getTime() + '"><\/script>');
+  </script>
+  <!-- <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&amp;ak=v0xtulhuiZnEtCKy4f2RBQfrTSAPebqe"> -->
+  </script>
+  <% }else { %>
+  <!-- 开发环境 -->
+  <link rel="shortcut icon" type="image/x-icon" href="./static/img/favicon.ico">
+  <script src="./static/config/index.js"></script>
+  <script src="./static/plugins/mock-1.0.0-beta3/mock-min.js"></script>
+  <script src="./static/plugins/echarts-4.2.1/echarts.min.js"></script>
+  <!-- <script src="./static/plugins/ueditor-1.4.3.3/ueditor.config.js"></script>
+    <script src="./static/plugins/ueditor-1.4.3.3/ueditor.all.min.js"></script> -->
+  <!-- <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&amp;ak=v0xtulhuiZnEtCKy4f2RBQfrTSAPebqe"> -->
+  </script>
+  <!-- <script type="text/javascript"
+    src="http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.js"></script> -->
+  <% } %>
+  <!-- <link rel="stylesheet" href="http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css"> -->
+</head>
+
+<body>
+  <div id="app"></div>
+  <script>
+    console.log(window.screen.width,'screeeeeee')
+    // if (window.screen.width >= 1680) {
+    //   document.write('<link rel="stylesheet" href="static/css/index_1920.css">')
+    // }  else if (window.screen.width > 1280 && window.screen.width < 1480) {
+    //   document.write(' <link rel="stylesheet" href="static/css/index_1366.css">')
+    // } else {
+    //   document.write('<link rel="stylesheet" href="static/css/index_1920.css">')
+    // }
+  </script>
+</body>
+
+</html>

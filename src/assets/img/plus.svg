@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>plus1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资源维护-集客业务及测试分类" transform="translate(-571.000000, -92.000000)">
+            <g id="左侧" transform="translate(261.000000, 78.000000)">
+                <g id="plus1" transform="translate(310.000000, 14.000000)">
+                    <rect id="Rectangle-36" x="0" y="0" width="24" height="24"></rect>
+                    <g id="plus" transform="translate(2.929688, 3.023438)" fill="#1890FF" fill-rule="nonzero">
+                        <path d="M17.3085938,8.1328125 L9.84375,8.1328125 L9.84375,0.85546875 C9.84375,0.3890625 9.46640625,0.01171875 9,0.01171875 C8.53359375,0.01171875 8.15625,0.3890625 8.15625,0.85546875 L8.15625,8.1328125 L0.85546875,8.1328125 C0.3890625,8.1328125 0.01171875,8.51015625 0.01171875,8.9765625 C0.01171875,9.44296875 0.3890625,9.8203125 0.85546875,9.8203125 L8.15625,9.8203125 L8.15625,17.1210938 C8.15625,17.5875 8.53359375,17.9648438 9,17.9648438 C9.46640625,17.9648438 9.84375,17.5875 9.84375,17.1210938 L9.84375,9.8203125 L17.3085938,9.8203125 C17.775,9.8203125 18.1523438,9.44296875 18.1523438,8.9765625 C18.1523438,8.51015625 17.775,8.1328125 17.3085938,8.1328125 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

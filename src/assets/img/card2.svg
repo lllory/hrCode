@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="136px" viewBox="0 0 450 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>card2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.3200867%" y1="4.93023403%" x2="0%" y2="96.0239955%" id="linearGradient-1">
+            <stop stop-color="#F9C07A" offset="0%"></stop>
+            <stop stop-color="#E58D43" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="442" height="128" rx="5"></rect>
+        <filter x="-1.6%" y="-3.9%" width="103.2%" height="110.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.905882353   0 0 0 0 0.576470588   0 0 0 0 0.28627451  0 0 0 0.753283514 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="数据展示" transform="translate(-494.000000, -257.000000)">
+            <g id="内容" transform="translate(0.000000, 249.000000)">
+                <g id="Group-6" transform="translate(32.000000, 10.000000)">
+                    <g id="卡2" transform="translate(466.000000, 0.000000)">
+                        <g id="卡片1-copy">
+                            <g id="card2">
+                                <g id="Path-6-+-Path-5-Mask">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                    </g>
+                                    <path d="M-6.14932127,71.8164063 C39.0934328,48.1119792 81.4554237,49.4707031 120.936652,75.8925781 C180.158493,115.525391 331.038462,120.310547 362.809955,114.861328 C383.99095,111.228516 416.609143,106.889974 460.664532,101.845703 C463.529586,128.955078 464.391031,142.509766 463.248869,142.509766 C462.106706,142.509766 305.008985,142.509766 -8.0442944,142.509766 L-6.14932127,71.8164063 Z" id="Path-6" fill="#FFFFFF" opacity="0.0749162946" mask="url(#mask-3)"></path>
+                                    <path d="M-8.0442944,129.474609 L456.171609,129.474609 L456.171609,69.4277344 C332.437294,56.8639323 245.631222,61.5859375 195.753394,83.59375 C145.875566,105.601563 77.9430029,120.895182 -8.0442944,129.474609 Z" id="Path-5" fill="#E8944A" opacity="0.427804129" mask="url(#mask-3)"></path>
+                                </g>
+                                <ellipse id="Oval" fill="#EA9D50" opacity="0.308849516" cx="416.106291" cy="20.5021645" rx="11.275974" ry="11.5021645"></ellipse>
+                                <ellipse id="Oval-Copy-6" fill="#EA9D50" opacity="0.308849516" cx="392.176735" cy="42" rx="7.84415584" ry="8"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
